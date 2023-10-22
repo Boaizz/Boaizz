@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tony Nguyen</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full-stack Developer</h3>
 
 - 🌱 I’m currently studying Bachelor of Computer Science (Software Development) at Swinburne University.
 
