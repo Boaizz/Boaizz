@@ -18,10 +18,10 @@
 
 ## 👨‍💻 About Me
 
-- 💻 Software Engineer passionate about building reliable and scalable software
+- 💻 Software Engineer focused on building reliable and scalable software
 - 🔧 Interested in **Backend Engineering, Distributed Systems, Payments, and System Design**
-- 🌱 Currently expanding my knowledge in **Java, Spring Boot, Kafka, PostgreSQL, and distributed systems**
-- 🚀 I enjoy building projects that explore real-world backend architecture and engineering problems
+- 🌱 Currently deepening my knowledge of **Java, Spring Boot, Kafka, PostgreSQL, and distributed systems**
+- 🚀 I enjoy exploring real-world backend architecture and engineering problems
 - 👨‍💻 Check out my projects: [github.com/Boaizz](https://github.com/Boaizz?tab=repositories)
 - 📫 Reach me at **tony.nguyen30403@gmail.com**
 
@@ -58,14 +58,35 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Boaizz&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Boaizz&theme=tokyonight&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=Boaizz&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com?user=Boaizz&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boaizz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Boaizz&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Boaizz&theme=tokyo-night&hide_border=true"
+  />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Boaizz&label=Profile%20Views&style=flat-square" />
